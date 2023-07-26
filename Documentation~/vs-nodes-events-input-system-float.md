@@ -1,4 +1,4 @@
-# On Input System Event Float node
+﻿# On Input System Event Float node
 
 > [!NOTE]
 > The On Input System Event Float node [!include[nodes-note-package](./snippets/input-system/nodes-note-package.md)]

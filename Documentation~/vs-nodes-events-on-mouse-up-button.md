@@ -1,4 +1,4 @@
-# On Mouse Up As Button node
+﻿# On Mouse Up As Button node
 
 > [!NOTE]
 > The On Mouse Up As Button [!include[nodes-note-manual](./snippets/input-manager/nodes-note-manual.md)]

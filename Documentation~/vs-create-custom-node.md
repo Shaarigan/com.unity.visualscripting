@@ -1,4 +1,4 @@
-# Custom C# nodes 
+﻿# Custom C# nodes 
 
 You can create your own Custom C# node with a C# script. Use your node in Script Graphs to run your own custom logic, and provide the script file to other users to let them use it in their own Visual Scripting projects. 
 

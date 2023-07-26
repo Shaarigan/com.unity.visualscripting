@@ -1,4 +1,4 @@
-# Add a node to a Script Graph
+﻿# Add a node to a Script Graph
 
 All logic in a Script Graph starts with a node. 
 

@@ -1,4 +1,4 @@
-# On Mouse Input node
+﻿# On Mouse Input node
 
 > [!NOTE]
 > The On Mouse Input [!include[nodes-note-manual](./snippets/input-manager/nodes-note-manual.md)]

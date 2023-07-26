@@ -1,4 +1,4 @@
-# Add a Subgraph to a Script Graph
+﻿# Add a Subgraph to a Script Graph
 
 A Subgraph is a Script Graph nested inside of another Script Graph. A Subgraph appears as a single node inside the parent Script Graph. 
 

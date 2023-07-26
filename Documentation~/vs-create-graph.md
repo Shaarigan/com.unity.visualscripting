@@ -1,4 +1,4 @@
-# Create a new graph file
+﻿# Create a new graph file
 
 To create a new Visual Scripting graph file, you can use the Unity Editor's Project window, Visual Scripting's empty graph creation flow, or create a graph from a Script Machine or State Machine component. 
 

@@ -1,0 +1,10 @@
+{
+  "provider": "GitHub",
+  "remote": {
+    "owner": "Shaarigan",
+    "name": "com.unity.visualscripting"
+  },
+  "branch": {
+    "name": "main"
+  }
+}

@@ -1,4 +1,4 @@
-# Create a transition between states
+﻿# Create a transition between states
 
 To switch between states in a State Graph, you must use a Script Graph called a transition.  
 

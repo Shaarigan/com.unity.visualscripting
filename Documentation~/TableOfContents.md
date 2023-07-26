@@ -1,4 +1,4 @@
-* [About Visual Scripting](index.md)
+﻿* [About Visual Scripting](index.md)
 
     *[Configure project settings](vs-configuration.md)
 

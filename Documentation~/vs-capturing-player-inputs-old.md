@@ -1,4 +1,4 @@
-# Capture input with the Input Manager
+﻿# Capture input with the Input Manager
 
 > [!NOTE]
 > You must configure your Project Settings to use the Input Manager with Visual Scripting. For more information, see [Input Manager prerequisites](vs-capture-player-input.md#input-manager-prerequisites).

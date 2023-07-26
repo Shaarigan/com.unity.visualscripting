@@ -1,4 +1,4 @@
-# On Input System Event Vector 2 node
+﻿# On Input System Event Vector 2 node
 
 > [!NOTE]
 > The On Input System Event Vector 2 node [!include[nodes-note-package](./snippets/input-system/nodes-note-package.md)]

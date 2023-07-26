@@ -1,4 +1,4 @@
-# Add relations to a Custom C# node
+﻿# Add relations to a Custom C# node
 
 > [!NOTE]
 > To add logic to a node, you must create a Custom C# node and add ports. [!include[vs-tasks-note-end](./snippets/custom-c-nodes/vs-tasks-note-end.md)]

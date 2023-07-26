@@ -1,4 +1,4 @@
-# Add a Trigger or Data port to a Script Graph
+﻿# Add a Trigger or Data port to a Script Graph
 
 When you use a Script Graph as a Subgraph, you can pass data and logic to it from its parent graph. Add and define ports on your graph to determine which logic and data you can pass to it. 
 

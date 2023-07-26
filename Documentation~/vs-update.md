@@ -1,4 +1,4 @@
-# Update Visual Scripting
+﻿# Update Visual Scripting
 
 > [!TIP]
 > Back up your data before you update to a new version of Visual Scripting. For more information on how to back up your Visual Scripting assets and settings, see [Create or restore a backup](vs-create-restore-backups.md).

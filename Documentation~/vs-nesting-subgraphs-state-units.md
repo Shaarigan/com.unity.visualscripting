@@ -1,4 +1,4 @@
-# Subgraphs and State Units
+﻿# Subgraphs and State Units
 
 In a Script Graph, you can add a node that links directly to another Script Graph or State Graph. 
 

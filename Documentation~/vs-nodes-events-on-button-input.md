@@ -1,4 +1,4 @@
-# On Button Input node
+﻿# On Button Input node
 
 > [!NOTE]
 > The On Button Input [!include[nodes-note-manual](./snippets/input-manager/nodes-note-manual.md)]

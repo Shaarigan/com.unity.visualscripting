@@ -1,4 +1,4 @@
-# Refactor a C# script with Visual Scripting
+﻿# Refactor a C# script with Visual Scripting
 
 Visual Scripting creates nodes from methods, fields, and properties from C# script in your project. Visual Scripting creates these nodes after you [regenerate your Node Library](vs-configuration.md) and [add any relevant types to your Type Options](vs-add-remove-type-options.md). 
 

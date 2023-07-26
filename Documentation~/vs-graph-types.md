@@ -1,4 +1,4 @@
-# Graphs 
+﻿# Graphs 
 
 A graph is a Visual Scripting asset that contains a visual representation of logic in an application. 
 

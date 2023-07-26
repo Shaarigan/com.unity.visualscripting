@@ -1,4 +1,4 @@
-# Add documentation to a Custom C# node
+﻿# Add documentation to a Custom C# node
 
 You can also add [Graph Inspector](vs-interface-overview.md#the-graph-inspector) documentation to a Custom C# node. Visual Scripting displays the documentation in the Graph Inspector when you select a node in a Script Graph. The documentation isn't required to use the node, but can help your users understand the purpose and usage of a node. 
 

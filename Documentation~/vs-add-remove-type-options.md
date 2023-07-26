@@ -1,4 +1,4 @@
-# Add or remove types
+﻿# Add or remove types
 
 Type Options specify which node inputs and outputs Visual Scripting supports. After you [add a new assembly](vs-add-remove-node-library.md), you must add types specific to those nodes to your Type Options. Add types to make the nodes and their types accessible in the [fuzzy finder](vs-interface-overview.md#the-fuzzy-finder) and [the Blackboard](vs-interface-overview.md#the-blackboard).
 

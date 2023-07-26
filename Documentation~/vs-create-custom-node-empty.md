@@ -1,4 +1,4 @@
-# Create a new simple Custom C# node 
+﻿# Create a new simple Custom C# node 
 
 You can create a Custom C# node to run your own custom logic in a Script Graph. For more information on Custom C# nodes, see [Custom C# nodes](vs-create-custom-node.md).
 

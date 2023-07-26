@@ -1,4 +1,4 @@
-# Develop logic transitions with State Graphs
+﻿# Develop logic transitions with State Graphs
 
 You can use State Graphs to change behaviors of GameObjects based on specific conditions. 
 

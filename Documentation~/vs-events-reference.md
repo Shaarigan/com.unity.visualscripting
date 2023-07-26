@@ -1,4 +1,4 @@
-# Events node
+﻿# Events node
 
 > [!NOTE]
 > For versions 2019/2020 LTS, download the Visual Scripting package from the [Unity Asset Store](https://assetstore.unity.com/packages/tools/visual-bolt-163802).

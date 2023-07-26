@@ -1,4 +1,4 @@
-# Subgraph node
+﻿# Subgraph node
 
 Use a Subgraph node to reference and trigger another Script Graph's logic from inside a parent Script Graph. 
 

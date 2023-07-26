@@ -1,8 +1,8 @@
-# Create and assign a graph to an existing GameObject
+﻿# Create and assign a graph to an existing GameObject
 
 You can use the empty graph creation flow to create a new graph file and assign it to an existing GameObject in your project. 
 
-![The Empty Graph Creation Flow window](images\vs-empty-graph-create-flow.png)
+![The Empty Graph Creation Flow window](images/vs-empty-graph-create-flow.png)
 
 For more information on other ways to create a graph file, see [Create a new graph file](vs-create-graph.md).
 
@@ -28,7 +28,7 @@ To create a new Script Graph and assign it to an existing GameObject:
 
     The new graph file automatically opens in a new window. 
 
-![A new Script Graph, created with the empty graph creation flow with starter On Update and On Start Event nodes.](images\vs-new-graph-starter-nodes.png)
+![A new Script Graph, created with the empty graph creation flow with starter On Update and On Start Event nodes.](images/vs-new-graph-starter-nodes.png)
 
 ## Create a State Graph
 

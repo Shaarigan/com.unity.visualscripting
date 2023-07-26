@@ -1,4 +1,4 @@
-# State Graph nodes
+﻿# State Graph nodes
 
 Visual scripting has four nodes that you can use to identify and manipulate the State Graphs assigned to a GameObject and its State Machines: 
 

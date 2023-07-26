@@ -1,4 +1,4 @@
-# State Unit node
+﻿# State Unit node
 
 Use a State Unit node like a Subgraph. The node references and triggers a State Graph inside a Script Graph. 
 

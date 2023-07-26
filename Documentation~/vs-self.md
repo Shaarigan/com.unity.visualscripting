@@ -1,4 +1,4 @@
-# This node
+﻿# This node
 
 Use a This node to return a GameObject with a Script Machine component that has the Script Graph. If the Script Machine uses an **Graph** source and multiple GameObjects use the same graph, the returned GameObject can change.  
 

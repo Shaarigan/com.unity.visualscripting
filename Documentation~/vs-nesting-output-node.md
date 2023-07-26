@@ -1,4 +1,4 @@
-# Output node
+﻿# Output node
 
 Use an Output node to control the flow of logic and data from a Script Graph's Subgraph node. An Output node sends data from a Subgraph and makes it available to a parent graph.
 

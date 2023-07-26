@@ -1,4 +1,4 @@
-# On Mouse Over node
+﻿# On Mouse Over node
 
 > [!NOTE]
 > The On Mouse Over [!include[nodes-note-manual](./snippets/input-manager/nodes-note-manual.md)]

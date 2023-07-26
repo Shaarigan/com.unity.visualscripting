@@ -1,4 +1,4 @@
-# Add or remove available nodes
+﻿# Add or remove available nodes
 
 Visual Scripting has a set of default assemblies and generated nodes for Unity features. Add more assemblies through the Visual Scripting Node Library in your Project Settings. Assemblies are special files that contain the code for the feature you want to use. 
 

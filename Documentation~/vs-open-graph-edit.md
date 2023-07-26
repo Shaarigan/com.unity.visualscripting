@@ -1,4 +1,4 @@
-# Open a graph file 
+﻿# Open a graph file 
 
 You can open a graph file from multiple locations, based on the graph type and its source type. 
 

@@ -1,4 +1,4 @@
-# Configure project settings
+﻿# Configure project settings
 
 Use the Project Settings window with Visual Scripting to manage backups, node assemblies, type options, and regenerate your Node Library.  
 

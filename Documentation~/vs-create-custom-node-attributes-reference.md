@@ -1,4 +1,4 @@
-# Custom C# node attributes reference 
+﻿# Custom C# node attributes reference 
 
 You can add attributes to a node class and port variable definitions to customize the look of a Custom C# node. 
 

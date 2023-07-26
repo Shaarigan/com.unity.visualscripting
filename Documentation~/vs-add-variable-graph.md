@@ -1,4 +1,4 @@
-# Create and add a variable to a Script Graph
+﻿# Create and add a variable to a Script Graph
 
 You can create and add a variable to a Script Graph in one of two ways: use the Graph window's Blackboard, or add a node to a graph.
 

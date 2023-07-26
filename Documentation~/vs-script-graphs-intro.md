@@ -1,4 +1,4 @@
-# Develop application logic with Script Graphs
+﻿# Develop application logic with Script Graphs
 
 Use Script Graphs to create interactions and logic in your project.
 

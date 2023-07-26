@@ -1,4 +1,4 @@
-# On Mouse Enter node
+﻿# On Mouse Enter node
 
 > [!NOTE]
 > The On Mouse Enter [!include[nodes-note-manual](./snippets/input-manager/nodes-note-manual.md)]

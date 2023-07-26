@@ -1,4 +1,4 @@
-# On Mouse Exit node
+﻿# On Mouse Exit node
 
 > [!NOTE]
 > The On Mouse Exit [!include[nodes-note-manual](./snippets/input-manager/nodes-note-manual.md)]

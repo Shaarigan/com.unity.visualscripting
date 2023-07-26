@@ -1,4 +1,4 @@
-# On Keyboard Input node 
+﻿# On Keyboard Input node 
 
 > [!NOTE]
 > The On Keyboard Input [!include[nodes-note-manual](./snippets/input-manager/nodes-note-manual.md)]

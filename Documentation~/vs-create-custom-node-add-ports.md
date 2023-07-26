@@ -1,4 +1,4 @@
-# Add ports to a Custom C# node 
+﻿# Add ports to a Custom C# node 
 
 > [!NOTE]
 > To add ports to your node, you must create the C# file for the node. [!include[vs-tasks-note-end](./snippets/custom-c-nodes/vs-tasks-note-end.md)]

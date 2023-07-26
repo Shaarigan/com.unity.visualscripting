@@ -1,4 +1,4 @@
-# Add a Custom Event node
+﻿# Add a Custom Event node
 
 You can add a Custom Event node to a Script Graph to trigger specific logic after an Event occurs. For more information about custom Events, see [Custom Events](vs-custom-events.md).
 

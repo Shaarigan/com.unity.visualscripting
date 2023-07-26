@@ -1,4 +1,4 @@
-# Capture input with the Input System package
+﻿# Capture input with the Input System package
 
 > [!IMPORTANT]
 > If you don't complete the prerequisite configuration for your project, you can't use the Input System package with Visual Scripting. For more information, see [Input System package prerequisites](vs-capture-player-input.md#input-system-package-prerequisites).

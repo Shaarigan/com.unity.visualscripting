@@ -1,4 +1,4 @@
-# Attach a graph file to a Script Machine or State Machine
+﻿# Attach a graph file to a Script Machine or State Machine
 
 To use a Script Graph or State Graph file in your project, you must attach it to a Script Machine or State Machine. 
 
@@ -22,7 +22,7 @@ A Script Machine or State Machine is a component. Components attach to GameObjec
 
 The new Script Machine or State Machine component appears in the Inspector window for the GameObject:
 
-![A new blank Script Machine component in the Inspector window for a GameObject](images\vs-script-machine-blank.png)
+![A new blank Script Machine component in the Inspector window for a GameObject](images/vs-script-machine-blank.png)
 
 ## Attach a graph file to the Script Machine or State Machine 
 

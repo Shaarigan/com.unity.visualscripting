@@ -1,4 +1,4 @@
-# Create a Custom Scripting Event Sender node
+﻿# Create a Custom Scripting Event Sender node
 
 > [!NOTE] 
 > Before you create a Custom Scripting Event Sender node, you must create a Custom Scripting Event node. [!include[tasks-note-end](./snippets/custom-events/vs-tasks-note-end.md)].

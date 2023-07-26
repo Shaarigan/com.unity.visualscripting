@@ -1,4 +1,4 @@
-# About Visual Scripting
+﻿# About Visual Scripting
 
 Visual Scripting enables you to create logic for games or applications without writing code. Visual Scripting uses visual, node-based graphs, which both programmers and non-programmers use to design final logic or create prototypes. Visual Scripting also has an API that programmers use for more advanced tasks, or for creating custom nodes for other team members.
 

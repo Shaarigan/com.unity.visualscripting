@@ -1,4 +1,4 @@
-# On Input System Event Button node
+﻿# On Input System Event Button node
 
 > [!NOTE]
 > The On Input System Event Button node [!include[nodes-note-package](./snippets/input-system/nodes-note-package.md)]

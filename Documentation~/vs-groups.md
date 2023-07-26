@@ -1,4 +1,4 @@
-# Create node groups
+﻿# Create node groups
 
 You can organize the nodes in your Script Graphs and State Graphs with node groups.
 

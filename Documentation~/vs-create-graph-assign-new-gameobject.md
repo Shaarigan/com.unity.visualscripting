@@ -1,8 +1,8 @@
-# Create and assign a graph to a new GameObject
+﻿# Create and assign a graph to a new GameObject
 
 You can use the empty graph creation flow to create a new graph file and assign it to a new GameObject. Visual Scripting automatically creates a new GameObject with the required components for the new graph file. 
 
-![The Empty Graph Creation Flow window](images\vs-empty-graph-create-flow.png)
+![The Empty Graph Creation Flow window](images/vs-empty-graph-create-flow.png)
 
 For more information on other ways to create a graph file, see [Create a new graph file](vs-create-graph.md).
 
@@ -29,7 +29,7 @@ To create a new graph and assign it to a new GameObject:
 
     The new graph file automatically opens in a new window. 
 
-![A new Script Graph, created with the empty graph creation flow with the On New GameObject option.](images\vs-new-graph-new-gameobject.png)
+![A new Script Graph, created with the empty graph creation flow with the On New GameObject option.](images/vs-new-graph-new-gameobject.png)
 
 ## Create a State Graph
 

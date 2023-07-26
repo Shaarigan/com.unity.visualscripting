@@ -1,4 +1,4 @@
-# On Mouse Drag node
+﻿# On Mouse Drag node
 
 > [!NOTE]
 > The On Mouse Drag [!include[nodes-note-manual](./snippets/input-manager/nodes-note-manual.md)]

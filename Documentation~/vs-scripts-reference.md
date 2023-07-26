@@ -1,4 +1,4 @@
-# Script Graph nodes
+﻿# Script Graph nodes
 
 Visual scripting has four nodes that you can use to identify and manipulate the Script Graphs assigned to a GameObject and its Script Machines: 
 

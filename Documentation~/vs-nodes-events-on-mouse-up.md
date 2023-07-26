@@ -1,4 +1,4 @@
-# On Mouse Up node
+﻿# On Mouse Up node
 
 > [!NOTE]
 > The On Mouse Up [!include[nodes-note-manual](./snippets/input-manager/nodes-note-manual.md)]
